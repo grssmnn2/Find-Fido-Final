@@ -1,0 +1,47 @@
+#map {
+    height: 400px;
+}
+
+.pac-container {
+    z-index: 10000 !important;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
+.map {
+    border: 1px solid #ccc;
+    background-color: #efefef;
+    height: 300px;
+    margin-top: 20px;
+}
+
+#addr {
+    width: 100%;
+}
+
+#userSearch{
+    margin-left: 400px;
+    margin-top: 25px;
+}
+
+#dogSearch{
+    margin-left: 400px;
+    margin-top: 25px;
+}
+
+
+
+/* found page css */
+
+.map2 {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.help-block{
+    color: red;
+}
